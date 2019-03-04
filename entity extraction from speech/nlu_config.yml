@@ -1,0 +1,22 @@
+# language: en
+# pipeline: spacy_sklearn
+language: "en"
+
+pipeline:
+- name: "nlp_spacy"
+- name: "tokenizer_spacy"
+- name: "intent_entity_featurizer_regex"
+- name: "intent_featurizer_spacy"
+- name: "ner_crf"
+- name: "intent_classifier_sklearn"
+- name: "ner_duckling_http"
+  # url of the running duckling server
+  url: "http://0.0.0.0:8000"
+  # dimensions to extract
+  dimensions: ["time"]
+  # allows you to configure the locale, by default the language is
+  # used
+  locale: "en_GB"
+  # if not set the default timezone of Duckling is going to be used
+  # needed to calculate dates from relative expressions like "tomorrow"
+  timezone: "Asia/Kolkata"

@@ -1,0 +1,96 @@
+## intent:insurance
+- [Maharashtra](state)
+- [Karnataka](state)
+- [Delhi](state)
+- [Goa](state)
+- [Bihar](state)
+- [Kerela](state)
+- [Punjab](state)
+- in [Maharashtra](state)
+- in [Karnataka](state)
+- in [Delhi](state)
+- in [Goa](state)
+- in [Bihar](state)
+- in [Kerela](state)
+- in [Punjab](state)
+- from [Maharashtra](state)
+- from [Karnataka](state)
+- from [Delhi](state)
+- from [Goa](state)
+- from [Bihar](state)
+- from [Kerela](state)
+- from [Punjab](state)
+- [child](relation)
+- [son](relation)
+- [daughter](relation)
+- [husband](relation)
+- [wife](relation)
+- [child](relation) of
+- [son](relation) of
+- [daughter](relation) of
+- [husband](relation) of
+- [wife](relation) of
+- [relative](relation)
+- [relative](relation) of
+- my [child](relation)
+- my [son](relation)
+- my [daughter](relation)
+- my [husband](relation)
+- my [wife](relation)
+- my [relative](relation)
+- my [relative](relation)
+- [rear](collision)
+- [side](collision)
+- [front](collision)
+- [rear](collision) collosion
+- [side](collision) collosion
+- [front](collision) collosion
+- [minor](severity) damage
+- [minor](severity) loss
+- [major](severity) damage
+- [major](severity) loss
+- [total](severity) damage
+- [total](severity) loss
+- [trivial](severity) damage
+- [trivial](severity) loss
+- [police](authorities)
+- [fire](authorities)
+- [ambulence](authorities)
+- [morning](time_of_day)
+- [evening](time_of_day)
+- [night](time_of_day)
+- [afternoon](time_of_day)
+- in the [morning](time_of_day)
+- in the [evening](time_of_day)
+- in the [night](time_of_day)
+- in the [afternoon](time_of_day)
+- [Nissan](brand)
+- [Chevrolet](brand)
+- [Ford](brand)
+- [BMW](brand)
+- [Toyota](brand)
+- [Audi](brand)
+- [Honda](brand)
+- [Jeep](brand)
+- [Mercedes](brand)
+- [Volkswagen](brand)
+- [Civic](model)
+- [Accord](model)
+- [Corolla](model)
+- [CRV](model)
+- [multi vehical](incident_type)
+- [single vehical](incident_type)
+- [multi vehical](incident_type) collision
+- [single vehical](incident_type) collision
+- [vehical theft](incident_type)
+- [vehical robbery](incident_type)
+- [theft](incident_type)
+- [robbery](incident_type)
+- [parked car](incident_type)
+- [parked](incident_type)
+- I am a car insurance customer from [Maharashtra](state). I crashed my [Honda](brand) [Civic](model) car yesterday [night](time_of_day) with [major](severity) damage and want to claim insurance.
+- I want to claim insurance for my [Toyota](brand) [Corolla](model) that met with an accident yesterday when it was [parked](incident_type).
+- I am calling to claim insurance for my [Volkswagen](brand) [Jetta](model) that suffered an accident 2 days ago when it came in the way of a [multi vehical](incident_type) collision.
+- This is a call to claim insurance for a [Honda](brand) [Accord](model) from [Karnataka](state). My [Son](relation) was driving his car on the 16th of february this year when he suffered a [front](collision) collision which resulted in [major](severity) loss. We called the [fire](authorities) fighters. It was in the [night](time_of_day). It was a [multi vehical](incident_type) crash.
+- This is a call to claim insurance for a [Mercedes](brand) [C5](model) from [Bihar](state). My [Wife](relation) was driving her car on the 1st of January this year when she suffered a [side](collision) collision which resulted in [trivial](severity) loss. We called the [police](authorities) officers. It was in the [day](time_of_day). It was a [parked car](incident_type) crash.
+- This is a call to claim insurance for a [Toyota](brand) [CRV](model) from [Kerela](state). My [relative](relation) was driving his car on the 9 days back this year. It was a [theft](incident_type). We called the [police](authorities) officers. It was in the [evening](time_of_day). It resulted in [major](severity) damage.

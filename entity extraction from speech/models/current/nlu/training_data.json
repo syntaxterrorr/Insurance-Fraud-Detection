@@ -1,0 +1,1335 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Maharashtra",
+            "entity": "state"
+          }
+        ],
+        "text": "Maharashtra"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Karnataka",
+            "entity": "state"
+          }
+        ],
+        "text": "Karnataka"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Delhi",
+            "entity": "state"
+          }
+        ],
+        "text": "Delhi"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "Goa",
+            "entity": "state"
+          }
+        ],
+        "text": "Goa"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Bihar",
+            "entity": "state"
+          }
+        ],
+        "text": "Bihar"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Kerela",
+            "entity": "state"
+          }
+        ],
+        "text": "Kerela"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Punjab",
+            "entity": "state"
+          }
+        ],
+        "text": "Punjab"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 14,
+            "value": "Maharashtra",
+            "entity": "state"
+          }
+        ],
+        "text": "in Maharashtra"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 12,
+            "value": "Karnataka",
+            "entity": "state"
+          }
+        ],
+        "text": "in Karnataka"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 8,
+            "value": "Delhi",
+            "entity": "state"
+          }
+        ],
+        "text": "in Delhi"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 6,
+            "value": "Goa",
+            "entity": "state"
+          }
+        ],
+        "text": "in Goa"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 8,
+            "value": "Bihar",
+            "entity": "state"
+          }
+        ],
+        "text": "in Bihar"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 9,
+            "value": "Kerela",
+            "entity": "state"
+          }
+        ],
+        "text": "in Kerela"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 9,
+            "value": "Punjab",
+            "entity": "state"
+          }
+        ],
+        "text": "in Punjab"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 16,
+            "value": "Maharashtra",
+            "entity": "state"
+          }
+        ],
+        "text": "from Maharashtra"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 14,
+            "value": "Karnataka",
+            "entity": "state"
+          }
+        ],
+        "text": "from Karnataka"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "Delhi",
+            "entity": "state"
+          }
+        ],
+        "text": "from Delhi"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "Goa",
+            "entity": "state"
+          }
+        ],
+        "text": "from Goa"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "Bihar",
+            "entity": "state"
+          }
+        ],
+        "text": "from Bihar"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "Kerela",
+            "entity": "state"
+          }
+        ],
+        "text": "from Kerela"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 5,
+            "end": 11,
+            "value": "Punjab",
+            "entity": "state"
+          }
+        ],
+        "text": "from Punjab"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "child",
+            "entity": "relation"
+          }
+        ],
+        "text": "child"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "son",
+            "entity": "relation"
+          }
+        ],
+        "text": "son"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "daughter",
+            "entity": "relation"
+          }
+        ],
+        "text": "daughter"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "husband",
+            "entity": "relation"
+          }
+        ],
+        "text": "husband"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "wife",
+            "entity": "relation"
+          }
+        ],
+        "text": "wife"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "child",
+            "entity": "relation"
+          }
+        ],
+        "text": "child of"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "son",
+            "entity": "relation"
+          }
+        ],
+        "text": "son of"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "daughter",
+            "entity": "relation"
+          }
+        ],
+        "text": "daughter of"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "husband",
+            "entity": "relation"
+          }
+        ],
+        "text": "husband of"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "wife",
+            "entity": "relation"
+          }
+        ],
+        "text": "wife of"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "relative",
+            "entity": "relation"
+          }
+        ],
+        "text": "relative"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "relative",
+            "entity": "relation"
+          }
+        ],
+        "text": "relative of"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 8,
+            "value": "child",
+            "entity": "relation"
+          }
+        ],
+        "text": "my child"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 6,
+            "value": "son",
+            "entity": "relation"
+          }
+        ],
+        "text": "my son"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 11,
+            "value": "daughter",
+            "entity": "relation"
+          }
+        ],
+        "text": "my daughter"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 10,
+            "value": "husband",
+            "entity": "relation"
+          }
+        ],
+        "text": "my husband"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 7,
+            "value": "wife",
+            "entity": "relation"
+          }
+        ],
+        "text": "my wife"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 11,
+            "value": "relative",
+            "entity": "relation"
+          }
+        ],
+        "text": "my relative"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 3,
+            "end": 11,
+            "value": "relative",
+            "entity": "relation"
+          }
+        ],
+        "text": "my relative"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "rear",
+            "entity": "collision"
+          }
+        ],
+        "text": "rear"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "side",
+            "entity": "collision"
+          }
+        ],
+        "text": "side"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "front",
+            "entity": "collision"
+          }
+        ],
+        "text": "front"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "rear",
+            "entity": "collision"
+          }
+        ],
+        "text": "rear collosion"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "side",
+            "entity": "collision"
+          }
+        ],
+        "text": "side collosion"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "front",
+            "entity": "collision"
+          }
+        ],
+        "text": "front collosion"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "minor",
+            "entity": "severity"
+          }
+        ],
+        "text": "minor damage"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "minor",
+            "entity": "severity"
+          }
+        ],
+        "text": "minor loss"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "major",
+            "entity": "severity"
+          }
+        ],
+        "text": "major damage"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "major",
+            "entity": "severity"
+          }
+        ],
+        "text": "major loss"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "total",
+            "entity": "severity"
+          }
+        ],
+        "text": "total damage"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "total",
+            "entity": "severity"
+          }
+        ],
+        "text": "total loss"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "trivial",
+            "entity": "severity"
+          }
+        ],
+        "text": "trivial damage"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "trivial",
+            "entity": "severity"
+          }
+        ],
+        "text": "trivial loss"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "police",
+            "entity": "authorities"
+          }
+        ],
+        "text": "police"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "fire",
+            "entity": "authorities"
+          }
+        ],
+        "text": "fire"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "ambulence",
+            "entity": "authorities"
+          }
+        ],
+        "text": "ambulence"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "morning",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "morning"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "evening",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "evening"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "night",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "night"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "afternoon",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "afternoon"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 7,
+            "end": 14,
+            "value": "morning",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "in the morning"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 7,
+            "end": 14,
+            "value": "evening",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "in the evening"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 7,
+            "end": 12,
+            "value": "night",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "in the night"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 7,
+            "end": 16,
+            "value": "afternoon",
+            "entity": "time_of_day"
+          }
+        ],
+        "text": "in the afternoon"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Nissan",
+            "entity": "brand"
+          }
+        ],
+        "text": "Nissan"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 9,
+            "value": "Chevrolet",
+            "entity": "brand"
+          }
+        ],
+        "text": "Chevrolet"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Ford",
+            "entity": "brand"
+          }
+        ],
+        "text": "Ford"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "BMW",
+            "entity": "brand"
+          }
+        ],
+        "text": "BMW"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Toyota",
+            "entity": "brand"
+          }
+        ],
+        "text": "Toyota"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Audi",
+            "entity": "brand"
+          }
+        ],
+        "text": "Audi"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Honda",
+            "entity": "brand"
+          }
+        ],
+        "text": "Honda"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "Jeep",
+            "entity": "brand"
+          }
+        ],
+        "text": "Jeep"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "Mercedes",
+            "entity": "brand"
+          }
+        ],
+        "text": "Mercedes"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Volkswagen",
+            "entity": "brand"
+          }
+        ],
+        "text": "Volkswagen"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Civic",
+            "entity": "model"
+          }
+        ],
+        "text": "Civic"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "Accord",
+            "entity": "model"
+          }
+        ],
+        "text": "Accord"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Corolla",
+            "entity": "model"
+          }
+        ],
+        "text": "Corolla"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "CRV",
+            "entity": "model"
+          }
+        ],
+        "text": "CRV"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "multi vehical",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "multi vehical"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "single vehical",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "single vehical"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "multi vehical",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "multi vehical collision"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "single vehical",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "single vehical collision"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "vehical theft",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "vehical theft"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "vehical robbery",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "vehical robbery"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "theft",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "theft"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "robbery",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "robbery"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "parked car",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "parked car"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 0,
+            "end": 6,
+            "value": "parked",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "parked"
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 35,
+            "end": 46,
+            "value": "Maharashtra",
+            "entity": "state"
+          },
+          {
+            "start": 61,
+            "end": 66,
+            "value": "Honda",
+            "entity": "brand"
+          },
+          {
+            "start": 67,
+            "end": 72,
+            "value": "Civic",
+            "entity": "model"
+          },
+          {
+            "start": 87,
+            "end": 92,
+            "value": "night",
+            "entity": "time_of_day"
+          },
+          {
+            "start": 98,
+            "end": 103,
+            "value": "major",
+            "entity": "severity"
+          }
+        ],
+        "text": "I am a car insurance customer from Maharashtra. I crashed my Honda Civic car yesterday night with major damage and want to claim insurance."
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 33,
+            "end": 39,
+            "value": "Toyota",
+            "entity": "brand"
+          },
+          {
+            "start": 40,
+            "end": 47,
+            "value": "Corolla",
+            "entity": "model"
+          },
+          {
+            "start": 96,
+            "end": 102,
+            "value": "parked",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "I want to claim insurance for my Toyota Corolla that met with an accident yesterday when it was parked."
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 39,
+            "end": 49,
+            "value": "Volkswagen",
+            "entity": "brand"
+          },
+          {
+            "start": 50,
+            "end": 55,
+            "value": "Jetta",
+            "entity": "model"
+          },
+          {
+            "start": 122,
+            "end": 135,
+            "value": "multi vehical",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "I am calling to claim insurance for my Volkswagen Jetta that suffered an accident 2 days ago when it came in the way of a multi vehical collision."
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 40,
+            "end": 45,
+            "value": "Honda",
+            "entity": "brand"
+          },
+          {
+            "start": 46,
+            "end": 52,
+            "value": "Accord",
+            "entity": "model"
+          },
+          {
+            "start": 58,
+            "end": 67,
+            "value": "Karnataka",
+            "entity": "state"
+          },
+          {
+            "start": 72,
+            "end": 75,
+            "value": "Son",
+            "entity": "relation"
+          },
+          {
+            "start": 149,
+            "end": 154,
+            "value": "front",
+            "entity": "collision"
+          },
+          {
+            "start": 183,
+            "end": 188,
+            "value": "major",
+            "entity": "severity"
+          },
+          {
+            "start": 209,
+            "end": 213,
+            "value": "fire",
+            "entity": "authorities"
+          },
+          {
+            "start": 238,
+            "end": 243,
+            "value": "night",
+            "entity": "time_of_day"
+          },
+          {
+            "start": 254,
+            "end": 267,
+            "value": "multi vehical",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "This is a call to claim insurance for a Honda Accord from Karnataka. My Son was driving his car on the 16th of february this year when he suffered a front collision which resulted in major loss. We called the fire fighters. It was in the night. It was a multi vehical crash."
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 40,
+            "end": 48,
+            "value": "Mercedes",
+            "entity": "brand"
+          },
+          {
+            "start": 49,
+            "end": 51,
+            "value": "C5",
+            "entity": "model"
+          },
+          {
+            "start": 57,
+            "end": 62,
+            "value": "Bihar",
+            "entity": "state"
+          },
+          {
+            "start": 67,
+            "end": 71,
+            "value": "Wife",
+            "entity": "relation"
+          },
+          {
+            "start": 144,
+            "end": 148,
+            "value": "side",
+            "entity": "collision"
+          },
+          {
+            "start": 177,
+            "end": 184,
+            "value": "trivial",
+            "entity": "severity"
+          },
+          {
+            "start": 205,
+            "end": 211,
+            "value": "police",
+            "entity": "authorities"
+          },
+          {
+            "start": 236,
+            "end": 239,
+            "value": "day",
+            "entity": "time_of_day"
+          },
+          {
+            "start": 250,
+            "end": 260,
+            "value": "parked car",
+            "entity": "incident_type"
+          }
+        ],
+        "text": "This is a call to claim insurance for a Mercedes C5 from Bihar. My Wife was driving her car on the 1st of January this year when she suffered a side collision which resulted in trivial loss. We called the police officers. It was in the day. It was a parked car crash."
+      },
+      {
+        "intent": "insurance",
+        "entities": [
+          {
+            "start": 40,
+            "end": 46,
+            "value": "Toyota",
+            "entity": "brand"
+          },
+          {
+            "start": 47,
+            "end": 50,
+            "value": "CRV",
+            "entity": "model"
+          },
+          {
+            "start": 56,
+            "end": 62,
+            "value": "Kerela",
+            "entity": "state"
+          },
+          {
+            "start": 67,
+            "end": 75,
+            "value": "relative",
+            "entity": "relation"
+          },
+          {
+            "start": 135,
+            "end": 140,
+            "value": "theft",
+            "entity": "incident_type"
+          },
+          {
+            "start": 156,
+            "end": 162,
+            "value": "police",
+            "entity": "authorities"
+          },
+          {
+            "start": 187,
+            "end": 194,
+            "value": "evening",
+            "entity": "time_of_day"
+          },
+          {
+            "start": 211,
+            "end": 216,
+            "value": "major",
+            "entity": "severity"
+          }
+        ],
+        "text": "This is a call to claim insurance for a Toyota CRV from Kerela. My relative was driving his car on the 9 days back this year. It was a theft. We called the police officers. It was in the evening. It resulted in major damage."
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
